@@ -1,0 +1,27 @@
+{
+    "name": "ACTS Toolkit",
+    "data": [
+        {
+            "type": "scriptparsetree",
+            "name": "scripts/atian_mods/zm_pack_a_punch.gsc",
+            "path": "zm_pack_a_punch.gscc",
+            "hooks": [
+                "scripts/zm_common/load.gsc"
+            ]
+        },
+        {
+            "type": "localizeentry",
+            "name": "acts/pap/buy_custom_weapon",
+            "value": "Hold ^3[{+activate}]^7 to buy a new weapon [Cost: &&1]"
+        }
+    ],
+    "cache": [
+        {
+            "type": "string",
+            "name": "acts/pap/buy_custom_weapon",
+            "mode": [
+                "zm"
+            ]
+        }
+    ]
+}

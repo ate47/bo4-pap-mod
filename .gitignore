@@ -1,0 +1,8 @@
+# compile object
+*.gscc
+*.cscc
+# decompile object
+*.gsccasm
+*.csccasm
+# archive
+*.zip
