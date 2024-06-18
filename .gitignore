@@ -6,3 +6,5 @@
 *.csccasm
 # archive
 *.zip
+
+/build/
