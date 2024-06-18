@@ -12,7 +12,7 @@ Someone asked me that for bo4 so I implemented it.
 
 ## How to install
 
-Download the last version here: [ate47/bo4-pap-mod/releases][https://github.com/ate47/bo4-pap-mod/releases/].
+Download the last version here: [ate47/bo4-pap-mod/releases](https://github.com/ate47/bo4-pap-mod/releases/).
 
 Extract the zip file in the `project-bo4/mods` of your bo4 installation.
 
